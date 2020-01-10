@@ -1,6 +1,6 @@
 # Dystophoria Project
 
-## Static website about the universe of video games, evolving in a dystopian universe !
+## Blog about video games, evolving in a dystopian universe
 
 Made with &#9825; by :
 
